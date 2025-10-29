@@ -2,11 +2,11 @@
 
   A hands-on demonstration of Google Cloud Assist Investigations with a reproducible memory leak scenario in Cloud Run.
 
-  ## 📖 Blog Post
+  ## Blog Post
 
   Read the full tutorial: blog-link-here
 
-  ## 🚀 Quick Start
+  ## Quick Start
 
   This demo creates a Cloud Run service that intentionally leaks memory, allowing you to test Cloud Assist Investigations root cause analysis capabilities.
 
@@ -85,8 +85,4 @@
   - Creating investigations from Slack alerts
   - Polling for results
   - Posting formatted results back to Slack threads
-
-  ### License
-
-  MIT License - See LICENSE file
-
+  - ++!
