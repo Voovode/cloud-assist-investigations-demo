@@ -4,7 +4,7 @@
 
   ## Blog Post
 
-  Read the full tutorial: blog-link-here
+  Read the full tutorial: https://medium.com/@voovode/f173ceabaef4
 
   ## Quick Start
 
